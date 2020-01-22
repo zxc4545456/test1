@@ -14,7 +14,7 @@ import lombok.experimental.Accessors;
 @TableName
 public class User implements Serializable{
 	/**
-	 * 
+	 * das
 	 */
 	private static final long serialVersionUID = -7608936516759666971L;
 	@TableId(type=IdType.AUTO)
